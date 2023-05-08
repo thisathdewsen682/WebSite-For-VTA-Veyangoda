@@ -122,7 +122,8 @@ include('session.php');
 <form action = "logout.php" method = "POST">
 <button>LOGUT</button>
 </form>
-
+<h1>sadsadsad</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam nemo repudiandae nostrum aliquam necessitatibus corrupti soluta quasi nam vel aperiam commodi, fugit non et omnis perspiciatis quos reiciendis exercitationem totam?</p>
 <script src = js/script.js></script>
 </body>
 </html>
